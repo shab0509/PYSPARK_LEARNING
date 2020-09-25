@@ -1,0 +1,16 @@
+
+Installation Steps:
+---------------------------------------------------------
+
+Pyspark in terminal: links provided below
+
+https://www.youtube.com/watch?v=J90j5t5R2-Q&list=PLJq5uWK2FOvcMifdb6oUXhx2S0_bh5Oi2&index=4
+
+
+Pyspark in IDE: links provided below 
+
+https://www.youtube.com/watch?v=PIa_-aMHYrg&t=207s
+
+
+
+
